@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">A passionate frontend developer from Panamá</h3>
+<h3 align="center">A passionate  Software Development  from Panamá</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro12rk&label=Profile%20views&color=0e75b6&style=flat" alt="leandro12rk" /> </p>
 
@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **leandro1220@hotmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- 🌱 I’m passionate about web development, problem-solving, and learning new technologies.
+- 💼 Here, you'll find some of my important projects, ranging from frontend to backend development, showcasing my skills and progress as a developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
