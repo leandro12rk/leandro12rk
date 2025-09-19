@@ -2,7 +2,7 @@
 <h3 align="center">A passionate  Software Development  from Panamá</h3>
 
 
-- 👨‍💻 All of my projects are available at [View Project](https://github.com/leandro12rk?tab=repositories)
+- 👨‍💻 All of my projects are available at [View Projects](https://github.com/leandro12rk?tab=repositories)
 
 - 📫 How to reach me **leandro1220@hotmail.com**
 
