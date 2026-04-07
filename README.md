@@ -29,21 +29,19 @@
 
 ### 🛠️ Languages & Tools  
 
-##   FrontEnd
+## FrontEnd
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,sass,bootstrap" />
 
-##  BackEnd 
+## BackEnd 
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,php" />
 
-  ##Deploy
+## Deploy
   <img src="https://skillicons.dev/icons?i=azure,docker,vercel" />
 
-  
  ## DataBase
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-
-  ##Tools
+## Tools
   <img src="https://skillicons.dev/icons?i=git,figma" />
 
 
