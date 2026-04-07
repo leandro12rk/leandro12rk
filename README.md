@@ -28,9 +28,32 @@
 ---
 
 ### 🛠️ Languages & Tools  
+
+##   FrontEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,php,mysql,postgres,azure,docker,git,figma,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,sass,bootstrap" />
 </p>
+
+##  BackEnd 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,php" />
+</p>
+
+  ##Deploy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,vercel" />
+  </p>
+  
+ ## DataBase
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </p>
+  
+  ##Tools
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma" />
+</p>
+
 
 ---
 
